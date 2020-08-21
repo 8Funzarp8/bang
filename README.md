@@ -1,0 +1,2 @@
+# bang
+ Gun goes BANG!
